@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoveUCB
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nobody
+- 👀 I’m interested in ML/DL and data science in Bio
+- 🌱 I’m currently learning ML simulating cell interactions
+- 💞️ I’m looking to collaborate on doctors/developers etc.
 - 📫 How to reach me jrwangspencer@stu.suda.edu.cn
 
 <!---
